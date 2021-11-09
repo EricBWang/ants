@@ -1,2 +1,2 @@
-# ants
+# Ants
 Ants is a project that constructs a tower defense game via functional and objected-oriented programming paradigms (local state, inheritance, composition, overloading, method lookup). The goal of the game is to protect your ant colony from the invasion of bees. Ants must be able to defend themselves with their implemented abilities such as throwing leaves, catching bees on fire, eating bees whole, resisting stings, etc. 
